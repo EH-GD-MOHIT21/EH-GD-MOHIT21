@@ -1,6 +1,6 @@
 ### Hi there, I'm Mohit! 👋
 
-- 📚 I'm a 3rd year CS Student at SMVDU
+- 📚 I'm a 4th year CS Student at SMVDU
 - ❤️ Checkout my <a href="https://mohitsatija.herokuapp.com/" target="_blank">portfolio</a>
 - <img alt="HR" width="20px" src="https://avatars.githubusercontent.com/u/1030588"/> Checkout my <a href="https://www.hackerrank.com/Hacker_021Ethics">Hackerrank</a>.
 
@@ -30,3 +30,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EH-GD-MOHIT21.visitor-badge)
 
 [![EH-GD-MOHIT21's github stats](https://github-readme-stats.vercel.app/api?username=EH-GD-MOHIT21)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eh-gd-mohit21" alt="prabhratirastogi" /></p>
