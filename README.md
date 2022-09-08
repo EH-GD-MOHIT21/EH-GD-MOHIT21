@@ -30,4 +30,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EH-GD-MOHIT21.visitor-badge)
 
 [![EH-GD-MOHIT21's github stats](https://github-readme-stats.vercel.app/api?username=EH-GD-MOHIT21)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eh-gd-mohit21" alt="prabhratirastogi" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eh-gd-mohit21" alt="eh-gd-mohit21" />
