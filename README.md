@@ -29,5 +29,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=EH-GD-MOHIT21.visitor-badge)
 
-<img src="https://github-readme-stats.vercel.app/api?username=EH-GD-MOHIT21" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eh-gd-mohit21" alt="eh-gd-mohit21" />
+<div style="display:flex;justify-content:center;align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=EH-GD-MOHIT21" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eh-gd-mohit21" alt="eh-gd-mohit21" />
+</div>
