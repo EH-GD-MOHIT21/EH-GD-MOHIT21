@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohit! 👋
 
 - 📚 I'm a 4th year CS Student at SMVDU
-- ❤️ Checkout my <a href="https://mohitsatija.herokuapp.com/" target="_blank">portfolio</a>
+- ❤️ Checkout my <a href="https://mohitsatija.pythonanywhere.com/" target="_blank">portfolio</a>
 - <img alt="HR" width="20px" src="https://avatars.githubusercontent.com/u/1030588"/> Checkout my <a href="https://www.hackerrank.com/Hacker_021Ethics">Hackerrank</a>.
 
 
